@@ -5,4 +5,5 @@ public class Main {
 
     }
     public static void funcionUno(){}
+    public static void funcionDos(){}
 }
